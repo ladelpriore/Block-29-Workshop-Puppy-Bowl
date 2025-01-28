@@ -1,6 +1,5 @@
 # Block 29 React Workshop: Puppy Bowl
-Optimize the JavaScript Puppy Bowl workshop with React. Defer to the Puppy Bowl API documentation, routes, HTTP methods and endpoints <br/>
-Fill the components with dummy data, set up React Router, Fetch the players, and Render the data in the JSX.
+Optimize the JavaScript Puppy Bowl workshop with React. Defer to the Puppy Bowl API documentation, routes, HTTP methods and endpoints. Fill the components with dummy data, set up React Router, Fetch the players, and Render the data in the JSX.
 
 ## Functional Requirements
 See a list of each player competing in the bowl.
