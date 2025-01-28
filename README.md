@@ -3,18 +3,14 @@ Optimize the JavaScript Puppy Bowl workshop with React. Defer to the Puppy Bowl 
 Fill the components with dummy data, set up React Router, Fetch the players, and Render the data in the JSX.
 
 ## Functional Requirements
-Your site's users should be able to:
-
-See a list of each player competing in the bowl.
+Your site's users should be able to: See a list of each player competing in the bowl.
 Click a "See Details" button for each player and team.
 Have a form to CREATE a new player.
 Search for a specific player in a search bar 
 Create a button to DELETE a player
 
 ## Coding Requirements
-Your code uses or employs best coding practices regarding:
-
-Variable declaration
+Your code uses or employs best coding practices regarding: Variable declaration
 Loop usage
 Control structures (i.e., if, else-if)
 Function declarations
